@@ -1,0 +1,85 @@
+/* .to-do-board {
+    border: 1px solid;
+    border-color: blue;
+}
+
+.to-do-board-inside {
+    border: 1px solid;
+    border-color: red;
+} */
+
+/* .to-do-container {
+    border: 1px solid;
+    border-color: green;
+}
+.to-do-column {
+    border: 1px solid;
+    border-color: rgb(0, 174, 255);
+} */
+
+.card-container {
+    border: none !important;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+
+}
+
+ul.to-do-cards {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    
+}
+
+.li-card {
+    border: none !important;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+    text-align: justify;
+
+}
+
+.card-container {
+    max-width: 30rem;
+}
+/* .to-do-board {
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+}
+
+.to-do-column {
+    width: 300px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+ 
+}
+
+.to-do-column h3 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.to-do-cards {
+    list-style-type: none;
+    padding: 0;
+}
+
+.to-do-card {
+    background-color: #fff;
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.to-do-card h4 {
+    font-size: 16px;
+    margin: 0;
+    color: #333;
+}
+
+.to-do-card p {
+    font-size: 14px;
+    color: #555;
+} */
