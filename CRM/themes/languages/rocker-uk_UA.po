@@ -1,0 +1,1220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rocker\n"
+"POT-Creation-Date: 2025-02-07 21:02+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Vlada\n"
+"Language-Team: My Super Team\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: assets/js/pace.min.js:1
+msgid "socket"
+msgstr ""
+
+#: assets/plugins/datatable/js/jquery.dataTables.min.js:29
+msgid "entries"
+msgstr ""
+
+#: assets/plugins/datatable/js/jquery.dataTables.min.js:29
+msgid "keys"
+msgstr ""
+
+#: authentication-forgot-password.php:21 authentication-signin.php:60
+msgid "Forgot Password?"
+msgstr "Забули пароль?"
+
+#: authentication-forgot-password.php:22
+msgid "Enter your registered email ID to reset the password"
+msgstr "Введіть зареєстровану електронну пошту, щоб скинути пароль"
+
+#: authentication-forgot-password.php:23
+msgid "Email id"
+msgstr ""
+
+#: authentication-forgot-password.php:26
+msgid "Send"
+msgstr "Надіслати"
+
+#: authentication-signin.php:25 authentication-signin.php:64 header.php:678
+msgid "Sign in"
+msgstr "Увійти"
+
+#: authentication-signin.php:26
+msgid "Don't have an account yet?"
+msgstr "Немає облікового запису?"
+
+#: authentication-signin.php:26
+msgid "Sign up here"
+msgstr "Зареєструйтеся тут"
+
+#: authentication-signin.php:35
+msgid "Sign in with Google"
+msgstr "Увійдіть за допомогою Google"
+
+#: authentication-signin.php:37
+msgid "Sign in with Facebook"
+msgstr "Увійдіть за допомогою Facebook"
+
+#: authentication-signin.php:39
+msgid "OR SIGN IN WITH EMAIL"
+msgstr "АБО УВІЙТИ ЗА ДОПОМОГОЮ ЕЛЕКТРОННОЇ ПОШТИ"
+
+#: authentication-signin.php:45 authentication-signup.php:54
+msgid "Email Address"
+msgstr "Адреса електроноої пошти"
+
+#: authentication-signin.php:49
+msgid "Enter Password"
+msgstr "Введіть пароль"
+
+#: authentication-signin.php:57
+msgid "Remember Me"
+msgstr "Запам\\'ятати мене"
+
+#: authentication-signup.php:25 header.php:215
+msgid "Sign Up"
+msgstr "Зареєструватись"
+
+#: authentication-signup.php:26
+msgid "Already have an account?"
+msgstr "Маєте обліковий запис?"
+
+#: authentication-signup.php:26
+msgid "Sign in here"
+msgstr "Увійти тут"
+
+#: authentication-signup.php:36
+msgid "Sign Up with Google"
+msgstr "Увійти за допомогою Google"
+
+#: authentication-signup.php:38
+msgid "Sign Up with Facebook"
+msgstr "Увійти за допомогою Facebook"
+
+#: authentication-signup.php:40
+msgid "OR SIGN UP WITH EMAIL"
+msgstr "АБО ЗАРЕЄСТРУЙТЕСЯ ЗА ДОПОМОГОЮ ЕЛЕКТРОННОЇ ПОШТИ"
+
+#: authentication-signup.php:46
+msgid "First Name"
+msgstr "Ім\\'я"
+
+#: authentication-signup.php:50
+msgid "Last Name"
+msgstr "Прізвище"
+
+#: authentication-signup.php:58
+msgid "Password"
+msgstr "Пароль"
+
+#: authentication-signup.php:63
+msgid "Password must have:"
+msgstr "Пароль має містити:"
+
+#: authentication-signup.php:65
+msgid "Minimum 8 characters"
+msgstr "Мінімум 8 символів"
+
+#: authentication-signup.php:66
+msgid "At least one capital letter"
+msgstr "Хоча б одну велику літеру"
+
+#: authentication-signup.php:67
+msgid "At least one small letter"
+msgstr "Хоча б одну маленьку літеру"
+
+#: authentication-signup.php:68
+msgid "At least one digit"
+msgstr "Принаймні одна цифра"
+
+#: authentication-signup.php:69
+msgid "At least one special character (!@#$%^&*)"
+msgstr "Принаймні один спеціальний символ (!@#$%^&*)"
+
+#: authentication-signup.php:74
+msgid "Country"
+msgstr "Країна"
+
+#: authentication-signup.php:76 page-wrapper.php:333
+msgid "India"
+msgstr "Індія"
+
+#: authentication-signup.php:77
+msgid "United Kingdom"
+msgstr "Велика Британія"
+
+#: authentication-signup.php:78
+msgid "America"
+msgstr "Америка"
+
+#: authentication-signup.php:79
+msgid "Dubai"
+msgstr "Дубаї"
+
+#: authentication-signup.php:85
+msgid "I read and agree to Terms & Conditions"
+msgstr "Я прочитав і погоджуюся з Політикою та Умовами"
+
+#: authentication-signup.php:90
+msgid "Sign up"
+msgstr "Зареєструватись"
+
+#: footer.php:5
+msgid "Copyright © 2021. All right reserved."
+msgstr "Copyright © 2021. Усі права захищено."
+
+#: header.php:10
+msgid "Rocker"
+msgstr ""
+
+#: header.php:21 header.php:686
+msgid "Dashboard"
+msgstr "Дошка"
+
+#: header.php:24
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: header.php:26
+msgid "Alternate"
+msgstr "Альтернативна"
+
+#: header.php:34
+msgid "Application"
+msgstr "Додатки"
+
+#: header.php:37 user-profile.php:102
+msgid "Email"
+msgstr ""
+
+#: header.php:39
+msgid "Chat Box"
+msgstr "Чат"
+
+#: header.php:41
+msgid "File Manager"
+msgstr "Файловий менеджер"
+
+#: header.php:43
+msgid "Contatcs"
+msgstr "Контакти"
+
+#: header.php:45
+#, fuzzy
+#| msgid "Todo List"
+msgid "To do List"
+msgstr "Список справ"
+
+#: header.php:47
+msgid "Invoice"
+msgstr "Рахунки"
+
+#: header.php:49
+msgid "Calendar"
+msgstr "Календар"
+
+#: header.php:53
+msgid "UI Elements"
+msgstr "UI Елементи"
+
+#: header.php:58
+msgid "Widgets"
+msgstr "Віджети"
+
+#: header.php:65
+msgid "eCommerce"
+msgstr ""
+
+#: header.php:68
+msgid "Products"
+msgstr "Товари"
+
+#: header.php:70
+msgid "Product Details"
+msgstr "Деталі товару"
+
+#: header.php:72
+msgid "Add New Products"
+msgstr "Додати новий товар"
+
+#: header.php:74
+msgid "Orders"
+msgstr "Замовлення"
+
+#: header.php:82
+msgid "Components"
+msgstr "Компоненти"
+
+#: header.php:85 header.php:395
+msgid "Alerts"
+msgstr "Сповіщення"
+
+#: header.php:87
+msgid "Accordions"
+msgstr "Випадаючі списки"
+
+#: header.php:89
+msgid "Badges"
+msgstr "Значки"
+
+#: header.php:91
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: header.php:93
+msgid "Cards"
+msgstr "Картки"
+
+#: header.php:95
+msgid "Carousels"
+msgstr "Каруселі"
+
+#: header.php:97
+msgid "List Groups"
+msgstr "Список груп"
+
+#: header.php:99
+msgid "Media Objects"
+msgstr "Медіа-об\\'єкти"
+
+#: header.php:101
+msgid "Modals"
+msgstr "Моделі"
+
+#: header.php:103
+msgid "Navs & Tabs"
+msgstr "Навігація та вкладки"
+
+#: header.php:105
+msgid "Navbar"
+msgstr "Навігаційна панель"
+
+#: header.php:107
+msgid "Pagination"
+msgstr "Пагінація"
+
+#: header.php:109
+msgid "Popovers & Tooltips"
+msgstr "Вспливаючі вікна та підказки"
+
+#: header.php:111
+msgid "Progress"
+msgstr "Прогрес"
+
+#: header.php:113
+msgid "Spinners"
+msgstr "Завантажувачі"
+
+#: header.php:115 header.php:407
+msgid "Notifications"
+msgstr "Сповіщення"
+
+#: header.php:117
+msgid "Avatrs & Chips"
+msgstr "Аватари та значки"
+
+#: header.php:125
+msgid "Content"
+msgstr "Контент"
+
+#: header.php:128
+msgid "Grid System"
+msgstr "Система сітки"
+
+#: header.php:130
+msgid "Typography"
+msgstr "Типографіка"
+
+#: header.php:132
+msgid "Text Utilities"
+msgstr "Текстові утиліти"
+
+#: header.php:140
+msgid "Icons"
+msgstr "Іконки"
+
+#: header.php:143
+msgid "Line Icons"
+msgstr "Лінійні піктограми"
+
+#: header.php:145
+msgid "Boxicons"
+msgstr "Бібліотека Boxicons"
+
+#: header.php:147
+msgid "Feather Icons"
+msgstr "Бібліотека Feather "
+
+#: header.php:151
+msgid "Forms & Tables"
+msgstr "Форми та таблиці"
+
+#: header.php:156
+msgid "Forms"
+msgstr "Форми"
+
+#: header.php:159
+msgid "Form Elements"
+msgstr "лементи форми"
+
+#: header.php:161
+msgid "Input Groups"
+msgstr "Групи полів вводу"
+
+#: header.php:163
+msgid "Forms Layouts"
+msgstr "Макети форм"
+
+#: header.php:165
+msgid "Form Validation"
+msgstr "Валідація форми"
+
+#: header.php:167
+msgid "Form Wizard"
+msgstr "Майстер форм"
+
+#: header.php:169
+msgid "Text Editor"
+msgstr "Текстовий редактор"
+
+#: header.php:171
+msgid "File Upload"
+msgstr "Завантаження файлу"
+
+#: header.php:173
+msgid "Date Pickers"
+msgstr "Селектори дат"
+
+#: header.php:175
+msgid "Select2"
+msgstr ""
+
+#: header.php:183
+msgid "Tables"
+msgstr "Таблиці"
+
+#: header.php:186
+msgid "Basic Table"
+msgstr "Базова таблиця"
+
+#: header.php:188
+msgid "Data Table"
+msgstr "Таблиця даних"
+
+#: header.php:192
+msgid "Pages"
+msgstr "Сторінки"
+
+#: header.php:197
+msgid "Authentication"
+msgstr "Автентифікація"
+
+#: header.php:203 header.php:695
+msgid "Logout"
+msgstr "Вийти"
+
+#: header.php:206
+msgid "Forgot Password"
+msgstr "Забули пароль"
+
+#: header.php:208
+msgid "Reset Password"
+msgstr "Скинути пароль"
+
+#: header.php:210
+msgid "Lock Screen"
+msgstr "Екран блокування"
+
+#: header.php:213
+msgid "Sign In"
+msgstr "Увійти"
+
+#: header.php:230 header.php:236 user-profile.php:22 user-profile.php:28
+msgid "User Profile"
+msgstr "Профіль користувача"
+
+#: header.php:246
+msgid "Timeline"
+msgstr "Хронологія"
+
+#: header.php:253
+msgid "Errors"
+msgstr "Помилки"
+
+#: header.php:256
+msgid "404 Error"
+msgstr "404 Помилка"
+
+#: header.php:258
+msgid "500 Error"
+msgstr "500 Помилка"
+
+#: header.php:260
+msgid "Coming Soon"
+msgstr "Незабаром"
+
+#: header.php:262
+msgid "Blank Page"
+msgstr "Порожня сторінка"
+
+#: header.php:270
+msgid "FAQ"
+msgstr ""
+
+#: header.php:277
+msgid "Pricing"
+msgstr "Ціни"
+
+#: header.php:280
+msgid "Charts & Maps"
+msgstr "Діаграми та мапи"
+
+#: header.php:285
+msgid "Charts"
+msgstr "Діаграми"
+
+#: header.php:288
+msgid "Apex"
+msgstr ""
+
+#: header.php:290
+msgid "Chartjs"
+msgstr ""
+
+#: header.php:292
+msgid "Highcharts"
+msgstr "Гістрограми"
+
+#: header.php:300
+msgid "Maps"
+msgstr "Мапи"
+
+#: header.php:303
+msgid "Google Maps"
+msgstr "Google Мапи"
+
+#: header.php:305
+msgid "Vector Maps"
+msgstr "Vector Мапи"
+
+#: header.php:309
+msgid "Others"
+msgstr "Інше"
+
+#: header.php:314
+msgid "Menu Levels"
+msgstr "Рівні меню"
+
+#: header.php:317
+msgid "Level One"
+msgstr "Перший рівень"
+
+#: header.php:319
+msgid "Level Two"
+msgstr "Другий рівень"
+
+#: header.php:321
+msgid "Level Three"
+msgstr "Третій рівень"
+
+#: header.php:333
+msgid "Documentation"
+msgstr "Документація"
+
+#: header.php:340
+msgid "Support"
+msgstr "Підтримка"
+
+#: header.php:370
+msgid "Teams"
+msgstr "Команди"
+
+#: header.php:375
+msgid "Projects"
+msgstr "Проєкти"
+
+#: header.php:380
+msgid "Tasks"
+msgstr "Завдання"
+
+#: header.php:385
+msgid "Feeds"
+msgstr ""
+
+#: header.php:390
+msgid "Files"
+msgstr "Файли"
+
+#: header.php:408 header.php:525
+msgid "Marks all as read"
+msgstr "Позначити все як прочитане"
+
+#: header.php:417
+msgid "New Customers"
+msgstr "Нові клієнти"
+
+#: header.php:417
+msgid ""
+"14 Sec\n"
+"                                        ago"
+msgstr ""
+"14 Секунд\n"
+"                                        тому"
+
+#: header.php:419
+msgid "5 new user registered"
+msgstr "Зареєстровано 5 нових користувачів "
+
+#: header.php:428
+msgid "New Orders"
+msgstr "Нові замовлення"
+
+#: header.php:428
+msgid ""
+"2 min\n"
+"                                        ago"
+msgstr ""
+"2 хвилини\n"
+"                                        тому"
+
+#: header.php:430
+msgid "You have recived new orders"
+msgstr "Ви отримали нові замовлення"
+
+#: header.php:439
+msgid "24 PDF File"
+msgstr ""
+
+#: header.php:439
+msgid ""
+"19 min\n"
+"                                        ago"
+msgstr ""
+"19 хвилин\n"
+"                                        тому"
+
+#: header.php:441
+msgid "The pdf files generated"
+msgstr "PDF файли згенеровано"
+
+#: header.php:450
+msgid "Time Response"
+msgstr "Час відповіді"
+
+#: header.php:450
+msgid ""
+"28 min\n"
+"                                        ago"
+msgstr ""
+"28 хвилин\n"
+"                                        тому"
+
+#: header.php:452
+msgid "5.1 min avarage time response"
+msgstr "5,1 хвилин середній час відгуку"
+
+#: header.php:461
+msgid "New Product Approved "
+msgstr "Новий продукт затверджено"
+
+#: header.php:462
+msgid "2 hrs ago"
+msgstr "2 години тому"
+
+#: header.php:463
+msgid "Your new product has approved"
+msgstr "Ваш новий продукт схвалено"
+
+#: header.php:472
+msgid "New Comments"
+msgstr "Новий коментар"
+
+#: header.php:472 header.php:607
+msgid ""
+"4 hrs\n"
+"                                        ago"
+msgstr ""
+"4 години\n"
+"                                        тому"
+
+#: header.php:474
+msgid "New customer comments recived"
+msgstr "Отримано нові відгуки від клієнтів"
+
+#: header.php:483
+msgid "Your item is shipped"
+msgstr "Ваш товар відправлено"
+
+#: header.php:483
+msgid ""
+"5 hrs\n"
+"                                        ago"
+msgstr ""
+"5 годин\n"
+"                                        тому"
+
+#: header.php:485
+msgid "Successfully shipped your item"
+msgstr "Ваш товар відправлено успішно"
+
+#: header.php:494
+msgid "New 24 authors"
+msgstr "Нові 24 автори"
+
+#: header.php:494
+msgid ""
+"1 day\n"
+"                                        ago"
+msgstr ""
+"1 день\n"
+"                                        тому"
+
+#: header.php:496
+msgid "24 new authors joined last week"
+msgstr "24 нових авторів приєднано минулого тижня"
+
+#: header.php:505
+msgid "Defense Alerts"
+msgstr "Сповіщення безпеки"
+
+#: header.php:505
+msgid ""
+"2 weeks\n"
+"                                        ago"
+msgstr ""
+"2 тижні\n"
+"                                        тому"
+
+#: header.php:507
+#, no-php-format
+msgid "45% less alerts last 4 weeks"
+msgstr "На 45% менше сповіщень за останні 4 тижні"
+
+#: header.php:513
+msgid "View All Notifications"
+msgstr "Переглянути всі сповіщення"
+
+#: header.php:524
+msgid "Messages"
+msgstr "Повідомлення"
+
+#: header.php:535
+msgid "Daisy Anderson"
+msgstr ""
+
+#: header.php:535
+msgid ""
+"5 sec\n"
+"                                        ago"
+msgstr ""
+"5 секунд\n"
+"                                        тому"
+
+#: header.php:537
+msgid "The standard chunk of lorem"
+msgstr "Стандартний фрагмент lorem"
+
+#: header.php:547
+msgid "Althea Cabardo "
+msgstr ""
+
+#: header.php:547
+msgid ""
+"14\n"
+"                                        sec ago"
+msgstr ""
+"14\n"
+"                                        секунд тому"
+
+#: header.php:549
+msgid "Many desktop publishing packages"
+msgstr "Пакети для настільної публікації"
+
+#: header.php:559
+msgid "Oscar Garner"
+msgstr ""
+
+#: header.php:559
+msgid ""
+"8 min\n"
+"                                        ago"
+msgstr ""
+"8 хвилин\n"
+"                                        тому"
+
+#: header.php:561 header.php:633
+msgid "Various versions have evolved over"
+msgstr "Різні версії з\\'явилися протягом"
+
+#: header.php:571
+msgid "Katherine Pechon"
+msgstr ""
+
+#: header.php:571
+msgid ""
+"15\n"
+"                                        min ago"
+msgstr ""
+"15\n"
+"                                        хвилин ago"
+
+#: header.php:573
+msgid "Making this the first true generator"
+msgstr "Створення першого генератора"
+
+#: header.php:583
+msgid "Amelia Doe"
+msgstr ""
+
+#: header.php:583
+msgid ""
+"22 min\n"
+"                                        ago"
+msgstr ""
+"22 хвилин\n"
+"                                        тому"
+
+#: header.php:585
+msgid "Duis aute irure dolor in reprehenderit"
+msgstr ""
+
+#: header.php:595
+msgid "Cristina Jhons"
+msgstr ""
+
+#: header.php:595 header.php:631
+msgid ""
+"2 hrs\n"
+"                                        ago"
+msgstr ""
+"2 години\n"
+"                                        тому"
+
+#: header.php:597
+msgid "The passage is attributed to an unknown"
+msgstr "Уривок належить невідомому"
+
+#: header.php:607
+msgid "James Caviness"
+msgstr ""
+
+#: header.php:609
+msgid "The point of using Lorem"
+msgstr ""
+
+#: header.php:619
+msgid "Peter Costanzo"
+msgstr ""
+
+#: header.php:619
+msgid ""
+"6 hrs\n"
+"                                        ago"
+msgstr ""
+"6 годин\n"
+"                                        тому"
+
+#: header.php:621
+msgid "It was popularised in the 1960s"
+msgstr ""
+
+#: header.php:631
+msgid "David Buckley"
+msgstr ""
+
+#: header.php:643
+msgid "Thomas Wheeler"
+msgstr ""
+
+#: header.php:643
+msgid ""
+"2 days\n"
+"                                        ago"
+msgstr ""
+
+#: header.php:645
+msgid "If you are going to use a passage"
+msgstr "Якщо ви збираєтеся використовувати уривок"
+
+#: header.php:655
+msgid "Johnny Seitz "
+msgstr ""
+
+#: header.php:655
+msgid ""
+"5 days\n"
+"                                        ago"
+msgstr ""
+
+#: header.php:657
+msgid "All the Lorem Ipsum generators"
+msgstr ""
+
+#: header.php:663
+msgid "View All Messages"
+msgstr "Переглянуті усі повідомлення"
+
+#: header.php:682
+msgid "Profile"
+msgstr "Профіль"
+
+#: header.php:684 user-profile.php:34
+msgid "Settings"
+msgstr "Налаштування"
+
+#: header.php:688
+msgid "Earnings"
+msgstr "Заробіток"
+
+#: header.php:690
+msgid "Downloads"
+msgstr "Завантаження"
+
+#: page-wrapper.php:9
+msgid "Total Orders"
+msgstr "Всього замовлень"
+
+#: page-wrapper.php:11
+#, no-php-format
+msgid "+2.5% from last week"
+msgstr "+2.5% за останній тиждень"
+
+#: page-wrapper.php:24
+msgid "Total Revenue"
+msgstr "Загальний дохід"
+
+#: page-wrapper.php:26
+#, no-php-format
+msgid "+5.4% from last week"
+msgstr "+5.4% за останній тиждень"
+
+#: page-wrapper.php:39
+msgid "Bounce Rate"
+msgstr "Коефіцієнт відмов"
+
+#: page-wrapper.php:41
+#, no-php-format
+msgid "-4.5% from last week"
+msgstr "-4.5% за останній тиждень"
+
+#: page-wrapper.php:54
+msgid "Total Customers"
+msgstr "Всього клієнтів"
+
+#: page-wrapper.php:56
+#, no-php-format
+msgid "+8.4% from last week"
+msgstr "+8.4% за останній тиждень"
+
+#: page-wrapper.php:72
+msgid "Sales Overview"
+msgstr "Огляд продажу"
+
+#: page-wrapper.php:78 page-wrapper.php:131 page-wrapper.php:171
+#: page-wrapper.php:284 page-wrapper.php:432 page-wrapper.php:471
+#: user-profile.php:37
+msgid "Action"
+msgstr "Дія"
+
+#: page-wrapper.php:80 page-wrapper.php:133 page-wrapper.php:173
+#: page-wrapper.php:286 page-wrapper.php:434 page-wrapper.php:473
+#: user-profile.php:38
+msgid "Another action"
+msgstr "Інші дії"
+
+#: page-wrapper.php:85 page-wrapper.php:138 page-wrapper.php:178
+#: page-wrapper.php:291 page-wrapper.php:439 page-wrapper.php:478
+#: user-profile.php:39
+msgid "Something else here"
+msgstr ""
+
+#: page-wrapper.php:91
+msgid "Sales"
+msgstr "Знижки"
+
+#: page-wrapper.php:92
+msgid "Visits"
+msgstr "Відвідування"
+
+#: page-wrapper.php:102
+msgid "Overall Visitor"
+msgstr "Загальна кількість відвідувань"
+
+#: page-wrapper.php:108
+msgid "Visitor Duration "
+msgstr "Тривалість відвідування "
+
+#: page-wrapper.php:114
+msgid "Pages/Visit"
+msgstr "Сторінок/Відвідувань"
+
+#: page-wrapper.php:125
+msgid "Trending Products"
+msgstr "Трендові товари"
+
+#: page-wrapper.php:148
+msgid "Jeans"
+msgstr "Джинси"
+
+#: page-wrapper.php:150
+msgid "T-Shirts"
+msgstr "Футболки"
+
+#: page-wrapper.php:152
+msgid "Shoes"
+msgstr "Взуття"
+
+#: page-wrapper.php:154
+msgid "Lingerie"
+msgstr "Білизна"
+
+#: page-wrapper.php:165 page-wrapper.php:278
+msgid "Recent Orders"
+msgstr "Нещодавні замовлення"
+
+#: page-wrapper.php:187
+msgid "Product"
+msgstr "Товар"
+
+#: page-wrapper.php:188
+msgid "Photo"
+msgstr "Фото"
+
+#: page-wrapper.php:189
+msgid "Product ID"
+msgstr "ID товару"
+
+#: page-wrapper.php:190
+msgid "Status"
+msgstr "Статус"
+
+#: page-wrapper.php:191
+msgid "Amount"
+msgstr "Сума"
+
+#: page-wrapper.php:192
+msgid "Date"
+msgstr "Дата"
+
+#: page-wrapper.php:193
+msgid "Shipping"
+msgstr "Доставка"
+
+#: page-wrapper.php:209
+msgid "Earphone GL"
+msgstr "Навушники GL"
+
+#: page-wrapper.php:212 page-wrapper.php:247 page-wrapper.php:453
+msgid "Pending"
+msgstr "Очікує на розгляд"
+
+#: page-wrapper.php:221
+msgid "HD Hand Camera"
+msgstr "HD Ручна камера"
+
+#: page-wrapper.php:224 page-wrapper.php:258
+msgid "Failed"
+msgstr "Не вдалось"
+
+#: page-wrapper.php:233
+msgid "Clasic Shoes"
+msgstr "Класичне взуття"
+
+#: page-wrapper.php:236
+msgid "Paid"
+msgstr "Сплачено"
+
+#: page-wrapper.php:244
+msgid "Sitting Chair"
+msgstr ""
+
+#: page-wrapper.php:255
+msgid "Hand Watch"
+msgstr "Ручний годинник"
+
+#: page-wrapper.php:305
+msgid "USA"
+msgstr "США"
+
+#: page-wrapper.php:312
+msgid "Canada"
+msgstr "Канада"
+
+#: page-wrapper.php:319
+msgid "England"
+msgstr "Англія"
+
+#: page-wrapper.php:326
+msgid "Australia"
+msgstr "Австралія"
+
+#: page-wrapper.php:340
+msgid "China"
+msgstr "Китай"
+
+#: page-wrapper.php:359
+msgid "Total Likes"
+msgstr "Всього вподобань"
+
+#: page-wrapper.php:361
+#, no-php-format
+msgid "+6.2% from last week"
+msgstr "+6.2% за останній тиждень"
+
+#: page-wrapper.php:372
+msgid "Comments"
+msgstr "Коментарі"
+
+#: page-wrapper.php:374
+#, no-php-format
+msgid "+3.7% from last week"
+msgstr "+3.7% за останній тиждень"
+
+#: page-wrapper.php:385
+msgid "Total Shares"
+msgstr "Всього акцій"
+
+#: page-wrapper.php:387
+#, no-php-format
+msgid "+4.6% from last week"
+msgstr "+4.6% за останній тиждень"
+
+#: page-wrapper.php:405
+msgid "Weekly Revenue"
+msgstr "Щотижневий дохід"
+
+#: page-wrapper.php:426
+msgid "Orders Summary"
+msgstr "Підсумки замовлень"
+
+#: page-wrapper.php:451
+msgid "Completed"
+msgstr "Завершено"
+
+#: page-wrapper.php:455
+msgid "Process"
+msgstr "Процес"
+
+#: page-wrapper.php:465
+msgid "Top Selling Categories"
+msgstr "Найпопулярніші категорії"
+
+#: page-wrapper.php:493
+msgid "Clothing"
+msgstr "Одяг"
+
+#: page-wrapper.php:499
+msgid "Electronic"
+msgstr "Електронний"
+
+#: switcher-wrapper.php:6
+msgid "Theme Customizer"
+msgstr "Налаштування теми"
+
+#: switcher-wrapper.php:10
+msgid "Theme Styles"
+msgstr "Стилі теми"
+
+#: switcher-wrapper.php:15
+msgid "Light"
+msgstr "Світлий"
+
+#: switcher-wrapper.php:19
+msgid "Dark"
+msgstr "Темний"
+
+#: switcher-wrapper.php:23
+msgid "Semi Dark"
+msgstr "Напівтемно"
+
+#: switcher-wrapper.php:29
+msgid "Minimal Theme"
+msgstr "Мінімалістична тема"
+
+#: switcher-wrapper.php:32
+msgid "Header Colors"
+msgstr "Кольори заголовків"
+
+#: switcher-wrapper.php:63
+msgid "Sidebar Colors"
+msgstr "Кольори бічної панелі"
+
+#: user-profile.php:35
+msgid "Toggle Dropdown"
+msgstr ""
+
+#: user-profile.php:40
+msgid "Separated link"
+msgstr "Окреме посилання"
+
+#: user-profile.php:56
+msgid "Full Stack Developer"
+msgstr ""
+
+#: user-profile.php:57
+msgid "Bay Area, San Francisco, CA"
+msgstr ""
+
+#: user-profile.php:58
+msgid "Follow"
+msgstr "Слідкувати"
+
+#: user-profile.php:59
+msgid "Message"
+msgstr "Повідомлення"
+
+#: user-profile.php:94
+msgid "Full Name"
+msgstr "Повне ім\\'я"
+
+#: user-profile.php:110
+msgid "Phone"
+msgstr "Телефон"
+
+#: user-profile.php:118
+msgid "Mobile"
+msgstr "Мобільний"
+
+#: user-profile.php:126
+msgid "Address"
+msgstr "Адреса"
+
+#: user-profile.php:135
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: user-profile.php:144
+msgid "Project Status"
+msgstr "Статус проєкту"
+
+#: user-profile.php:145
+msgid "Web Design"
+msgstr ""
+
+#: user-profile.php:149
+msgid "Website Markup"
+msgstr ""
+
+#: user-profile.php:153
+msgid "One Page"
+msgstr ""
+
+#: user-profile.php:157
+msgid "Mobile Template"
+msgstr ""
+
+#: user-profile.php:161
+msgid "Backend API"
+msgstr ""
